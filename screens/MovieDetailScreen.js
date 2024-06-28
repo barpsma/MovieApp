@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { View, Text, Image, StyleSheet, ScrollView } from 'react-native';
 
-const API_KEY = '721fcf65c6b97ab8d456aadbe187f998'; // Ganti dengan kunci API Anda sendiri
+const API_KEY = ''; // Ganti dengan kunci API Anda sendiri
 const BASE_URL = 'https://api.themoviedb.org/3';
 
 const MovieDetailScreen = ({ route }) => {
